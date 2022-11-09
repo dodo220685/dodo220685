@@ -3,7 +3,7 @@
 
 - 🔭Actualmente trabajo en [FlexiRed](www.flexired.com.ar)
 
-- 🌱 En este momento me encuentro estudiando **React, NodeJS, JS, CSS**
+- 🌱 En este momento me encuentro estudiando **React, NodeJS, JS, CSS, AppSheet (LowCode)**
 
 - 👯 Actualmente estoy trabajando en un sistema de cuadrillas de instaladores **Flexi-APP**
 
