@@ -9,7 +9,7 @@
 
 - 👨‍💻 Mis proyectos de desarrollo estan en: [https://github.com/dodo220685/](https://github.com/dodo220685/)
 
-- 💬 Puedes consultarme sobre **Redes, consultoria de negocios, software, infraestructura**
+- 💬 Puedes consultarme sobre **Telecomunicaciones, Infraestructura, Software, consultoria de negocios, **
 
 - 📫 Me puedes contactar en: **rodrigo@flexired.com.ar**
 
